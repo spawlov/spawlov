@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 ### Меня зовут Сергей Павлов
 - Я учусь на курсе Fullstack разработчик на Python
-
+<!--
 - Ранее программровал промышленные контроллеры Schneider Electric, Siemens, OWEN, DEIF
 - Писал прикладные программы для промышленной автоматизации на Delphi в связке с MSSQL и Microsoft Access
 - Разрабатывывал собственные контроллеры на Zilog Z80, писал на Assembler
 
 - Есть опыт написания web-приложений на PHP в связке с MySQL 
+-->
