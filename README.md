@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Меня зовут Сергей Павлов
+<!--
 Я учусь на курсе Fullstack разработчик на Python
 <!--
 - Ранее программровал промышленные контроллеры Schneider Electric, Siemens, OWEN, DEIF
