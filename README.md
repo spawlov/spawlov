@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Меня зовут Сергей Павлов
+#### <a target="_blank" href="https://myresume.ru/resume/4Y7KVHcLYLs/">Подробнее обо мне</a>
 <!--
 Я учусь на курсе Fullstack разработчик на Python
 <!--
